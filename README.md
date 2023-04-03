@@ -1,17 +1,17 @@
-# gitdiff-parser
+# git-diff-converter
 
 A fast and reliable git diff parser.
 
 ## Install
 
 ```shell
-npm install gitdiff-parser
+npm install git-diff-converter
 ```
 
 ## Usage
 
 ```js
-import gitDiffParser from 'gitdiff-parser';
+import gitDiffParser from 'git-diff-converter';
 
 gitDiffParser.parse(gitDiffText);
 ```
